@@ -1,7 +1,7 @@
 {
-  "key.categories.newvisualkeybing": "New Visual Keybing",
-  "key.newvisualkeybing.open_viewer": "Open keybind viewer",
-  "screen.newvisualkeybing.viewer.title": "New Visual Keybing",
+  "key.categories.newvisualkeybing": "test",
+  "key.newvisualkeybing.open_viewer": "test",
+  "screen.newvisualkeybing.viewer.title": "新的键位",
   "screen.newvisualkeybing.viewer.subtitle": "Holographic keybind map with mouse and mod filters",
   "screen.newvisualkeybing.viewer.search": "Search key, action, mod, or category",
   "screen.newvisualkeybing.viewer.mods": "Mods",
